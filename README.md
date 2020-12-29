@@ -1,3 +1,7 @@
+# Use o Google Colaboratory
+
+https://colab.research.google.com/github/meloluan/Estudo_Lotofacil/blob/master/predict.ipynb
+
 # Passo a passo para usar no Windows:
 ### Instalar o Python 3.6
 Baixar e instalar o Python 3.6 a partir desse link:
